@@ -1,2 +1,14 @@
 Meine gesammelten PHP Functions
+===============================
+
+
+email_protect.php
+-----------------
+Die eingegebene E-Mail-Adresse wird mittels JavaScript verschlüsselt, sodass ein Bot die Adresse nicht parsen kann.
+
+
+email_syntax_check.php
+----------------------
+Prüft, ob die angegebene E-Mail-Adresse den Richtlinien entspricht.
+Momentan etwas buggy...
 
