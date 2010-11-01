@@ -1,6 +1,12 @@
 <?php
 function email_protect() {
 	/*
+	Autor: Dennis Kruemmel
+	Mail: dennis@kruemmel.it
+	
+	Lizenz: CC-BY-SA
+	http://creativecommons.org/licenses/by-sa/3.0/deed.de
+	
 	Usage:
 	
 	email_protect()
